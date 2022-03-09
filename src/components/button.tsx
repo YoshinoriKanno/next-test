@@ -1,3 +1,3 @@
 export default function Button() {
-  return <button style={{ color: 'red' }}>ボタン</button>;
+  return <button style={{ color: `red` }}>ボタン</button>;
 }
